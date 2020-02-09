@@ -5,4 +5,6 @@ Terminal command
 
 $ rd-curves
 
+Video build package https://radikal.ru/video/3ONvG9Vv5bL
+
 Original source https://github.com/strukturag/libde265
