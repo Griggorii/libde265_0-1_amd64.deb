@@ -45,7 +45,7 @@ ________________________________________________________________________________
                                           
 $ ./autogen.sh --prefix=/usr --includedir=${prefix}/include --mandir=${prefix}/share/man --infodir=${prefix}/share/info --localstatedir=/var --libdir=${prefix}/lib/x86_64-linux-gnu --libexecdir=${prefix}/lib/x86_64-linux-gnu
 
-Warnind Danger system crash 19.04 , 19.10 , 20.04
+Warning Danger ./autogen.sh configuration ! rm sed system crash 19.04 , 19.10 , 20.04
 
 
 
