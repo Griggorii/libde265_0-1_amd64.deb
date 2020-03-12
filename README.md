@@ -3,7 +3,7 @@ supported encoders: de265 / hm / hmscc / x265 / f265 / x264 / mpeg2
 
 Original source download https://github.com/strukturag/libde265
 
-My patent property compilation command tutorial x86_64-linux-gnu not x86_64-linux-gnu replace example i386 -> {prefix}/lib/i386 u̶s̶r̶/̶l̶i̶b̶/̶i̶3̶8̶6<-not {prefix}/lib/i386<-good !
+My patent property compilation command tutorial x86_64-linux-gnu not x86_64-linux-gnu replace example i386 -> {prefix}/lib/i386   u̶s̶r̶/̶l̶i̶b̶/̶i̶3̶8̶6<-not   {prefix}/lib/i386<-good !
 
 $ sudo cp -r libde265 /usr/include
 
