@@ -3,7 +3,7 @@ supported encoders: de265 / hm / hmscc / x265 / f265 / x264 / mpeg2
 
 Original source download https://github.com/strukturag/libde265
 
-My patent property include libde265
+My patent property compilation command
 
 $ sudo cp -r libde265 /usr/include
 
