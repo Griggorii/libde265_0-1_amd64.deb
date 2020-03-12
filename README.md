@@ -11,6 +11,7 @@ $ ./autogen.sh
 
 $ ./configure --prefix=/usr --includedir=${prefix}/include --mandir=${prefix}/share/man --infodir=${prefix}/share/info --localstatedir=/var --libdir=${prefix}/lib/x86_64-linux-gnu --libexecdir=${prefix}/lib/x86_64-linux-gnu
 
+
 $ make -j16 && sudo make install
 
 Test
@@ -37,6 +38,14 @@ $ tests
 
 $ yuv-distortion
 
+__________________________________________________________________________________________________________________
+
+                                          Warning Variant V2 Not recommended
+                                          
+                                          
+$ ./autogen.sh --prefix=/usr --includedir=${prefix}/include --mandir=${prefix}/share/man --infodir=${prefix}/share/info --localstatedir=/var --libdir=${prefix}/lib/x86_64-linux-gnu --libexecdir=${prefix}/lib/x86_64-linux-gnu
+
+Warnind Danger system crash 19.04 , 19.10 , 20.04
 
 
 
