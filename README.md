@@ -1,9 +1,9 @@
-# libde265_0-1_amd64.deb
+# libde265_V0.0.12 property compilation command tutorial
 supported encoders: de265 / hm / hmscc / x265 / f265 / x264 / mpeg2
 
 Original source download https://github.com/strukturag/libde265
 
-My patent property compilation command
+My patent property compilation command tutorial 
 
 $ sudo cp -r libde265 /usr/include
 
