@@ -1,9 +1,9 @@
 # libde265_0-1_amd64.deb
 supported encoders: de265 / hm / hmscc / x265 / f265 / x264 / mpeg2
 
-Original source https://github.com/strukturag/libde265
+Original source download https://github.com/strukturag/libde265
 
-My patent property command source https://github.com/strukturag/libde265 my include libde265_0-1_amd64.deb data inpack deb
+My patent property include libde265
 
 $ sudo cp -r libde265 /usr/include
 
